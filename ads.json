@@ -1,0 +1,16 @@
+{
+	"en": [
+		{
+			"title": "test",
+			"url": "https://amazon.com",
+			"image": "https://previews.123rf.com/images/fordzolo/fordzolo1506/fordzolo150600296/41026708-example-white-stamp-text-on-red-backgroud.jpg"
+		}
+	],
+	"de": [
+		{
+			"title": "test",
+			"url": "https://amazon.de",
+			"image": "https://previews.123rf.com/images/fordzolo/fordzolo1506/fordzolo150600296/41026708-example-white-stamp-text-on-red-backgroud.jpg"
+		}
+	]
+}
